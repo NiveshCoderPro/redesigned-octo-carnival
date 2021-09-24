@@ -1,0 +1,21 @@
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+    text-align: center;
+    background-image: url("background.jpg");
+   
+}
+canvas {
+    border: 2px solid black;
+}
+#user_profile {
+    background-color:lightblue;
+    position:fixed;
+    bottom:0;
+    width:100%;
+    font-size:30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font:bold;
+    size:30px
+}
